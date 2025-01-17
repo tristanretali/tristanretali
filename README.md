@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm a French student in third year of Bachelor of IT <br>🔭 I’m currently working on Health Chatbot<br>🌱 I’m currently learning React, Django, Langchain<br>👯 I’m looking to collaborate on AI Project
+📚 I'm a French Junior developer currently in New Zealand <br>
 
 
 
