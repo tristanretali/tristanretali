@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm a French Junior developer who's going to the Efrei in Bordeaux for his master. <br>
+📚 I'm a French Junior developer currently studying at Efrei in Paris for his master. <br>
 
 
 
